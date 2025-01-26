@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZegoCloud Tutorial</string>
+    <string name="emailHint">Enter your email id</string>
+    <string name="passwordHint">Enter your password</string>
+    <string name="loginButtonText">Login</string>
+    <string name="learn_mvvm">Learn MVVM</string>
+    <string name="login_dummy">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
